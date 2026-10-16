@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1cc8e009-aa0f-476a-97e8-0f3daf1f7b9c",
+    "title": "Nouveau projet",
+    "topic": "Une idée à partager",
+    "format": "9:16",
+    "language": "Français",
+    "targetDuration": 30,
+    "scenes": [
+      {
+        "id": "177bed43-6391-43c4-a3c6-258e637cddfe",
+        "narration": "",
+        "caption": "TOUT COMMENCE PAR UNE IDÉE",
+        "duration": 5,
+        "mediaType": "image",
+        "mediaId": "01229c61-328d-4b51-b05b-a4fa4265acde",
+        "mediaName": "20261012171549.png",
+        "transition": "cut",
+        "color": "#6558f5"
+      },
+      {
+        "id": "3c2b517d-3be3-45fb-87c5-e6ea1873a9aa",
+        "narration": "Donnez vie à vos histoires, une scène à la fois.",
+        "caption": "DONNEZ VIE À VOS HISTOIRES",
+        "duration": 5,
+        "mediaType": "image",
+        "mediaId": "471a6007-f2cb-4947-9be6-eb1ea6a43eed",
+        "mediaName": "20230202150858.png",
+        "transition": "fade",
+        "color": "#0b6e69"
+      },
+      {
+        "id": "07928011-7d0c-4d08-a08a-555043c00bad",
+        "narration": "Votre narration commence ici…",
+        "caption": "VOTRE NOUVEAU TITRE",
+        "duration": 5,
+        "mediaType": "image",
+        "mediaId": "df46e73c-c754-48a4-b3b9-c9b45946a076",
+        "mediaName": "20230204170357.png",
+        "transition": "fade",
+        "color": "#a04f31"
+      }
+    ],
+    "updatedAt": "2026-10-16T13:55:50.965Z"
+  }
+]
